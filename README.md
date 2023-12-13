@@ -1,5 +1,5 @@
 # terraform_rds_project
-Example project of an RDS system created using Terraform IaC.
+Example project of an RDS service created using Terraform IaC.
 
 Pre-requisites / Requirements / Setup Info:
 
@@ -11,7 +11,8 @@ Pre-requisites / Requirements / Setup Info:
 - Terraform
 
 3) Initialised Terraform and configured AWS account and access keys.
-NOTE: Must run "terraform init" after pulling repo to reconstruct some terraform providers, as github had a file size limit that wouldn't allow them to be pushed back.
+   
+NOTE: Must run "terraform init" after pulling repo to reconstruct some terraform providers, as GitHub had a 100MB file size limit that wouldn't allow them to be pushed to the branch.
 
 4) Defined AWS username and password set as environment variables.
 
