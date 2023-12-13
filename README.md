@@ -11,6 +11,7 @@ Pre-requisites / Requirements / Setup Info:
 - Terraform
 
 3) Initialised Terraform and configured AWS account and access keys.
+NOTE: Must run "terraform init" after pulling repo to reconstruct some terraform providers, as github had a file size limit that wouldn't allow them to be pushed back.
 
 4) Defined AWS username and password set as environment variables.
 
