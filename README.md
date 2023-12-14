@@ -1,5 +1,6 @@
 # terraform_rds_project
 Example project of an RDS service created using Terraform IaC.
+I have included three example EC2 instances that have been connected to the RDS.
 
 Pre-requisites / Requirements / Setup Info:
 
