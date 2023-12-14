@@ -18,3 +18,8 @@ NOTE: Must run "terraform init" after pulling repo to reconstruct some terraform
 4) Defined AWS username and password set as environment variables.
 
 5) In a more thorough solution I would consider implementing a key vault or similar to store the key pairs more securely.
+
+Research undertaken included the following sources:
+- https://docs.aws.amazon.com/
+- https://developer.hashicorp.com/
+- https://spacelift.io/
